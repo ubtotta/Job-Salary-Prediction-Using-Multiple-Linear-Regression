@@ -137,11 +137,12 @@ Job-Salary-Prediction/
 
 ---
 
----
+## 👨‍💻 Author
 
-## 🔗 Connect
+**Udaya Kumar B Totta**
 
-If you found this project useful, feel free to ⭐ the repo and connect with me on [LinkedIn](#).
+Computer Science Engineering Student  
+Machine Learning | Data Science | Python Developer
 
 ---
 
