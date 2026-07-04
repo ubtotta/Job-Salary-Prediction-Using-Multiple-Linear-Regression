@@ -32,6 +32,41 @@ Salary is influenced by a mix of numerical and categorical factors — years of 
 
 ---
 
+## 📊 Machine Learning Pipeline
+
+```
+Dataset
+    │
+    ▼
+Feature & Target Selection
+    │
+    ▼
+Identify Numerical & Categorical Features
+    │
+    ▼
+Train-Test Split
+    │
+    ▼
+Outlier Detection
+    │
+    ▼
+MinMax Scaling
+    │
+    ▼
+One-Hot Encoding
+    │
+    ▼
+Multiple Linear Regression
+    │
+    ▼
+Prediction
+    │
+    ▼
+Model Evaluation
+```
+
+---
+
 ## ⚙️ Tech Stack
 
 - **Language:** Python
